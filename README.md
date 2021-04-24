@@ -1,4 +1,5 @@
-# text-summarization
+# Machine Learning for Natural Language Processing
+## Neural Text Summarization
 
 In this project, we will use Natural Language Processing for **Summarization Task**. 
 In this task, a summary of a given article/document is generated when passed through a network. There are 2 types of summary generation mechanisms:
