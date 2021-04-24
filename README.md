@@ -1,6 +1,6 @@
 # text-summarization
 
-In this notebook, we will use Natural Language Processing for **Summarization Task**. 
+In this project, we will use Natural Language Processing for **Summarization Task**. 
 In this task, a summary of a given article/document is generated when passed through a network. There are 2 types of summary generation mechanisms:
 
 1. ***Extractive Summary:*** the network calculates the most important sentences from the article and gets them together to provide the most meaningful information from the article.
