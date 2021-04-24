@@ -15,7 +15,10 @@ Project done as part of the Machine Learning for Natural Language Processing cou
 
 **April 24th, 2021**
 
-# Note
+## Notebook 
+The notebook might not display correctly because the file is too large. You can use Jupyter nbviewer : https://nbviewer.jupyter.org
+
+## Note
 Please download train model at the following link: https://drive.google.com/file/d/1t21ljrCFvc2YPboEao2f0wvpoyW9EcT3/view?usp=sharing
 
 Or, the full repo on Google Drive (model + data): https://drive.google.com/drive/folders/11PJ9U4rm0N9lvyA4YXAabfAGuBj7yueh?usp=sharing
